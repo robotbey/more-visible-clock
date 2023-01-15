@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="main">watch.png</file>
+        <file alias="pin">pin.png</file>
+        <file alias="settings">gear.png</file>
+    </qresource>
+</RCC>
